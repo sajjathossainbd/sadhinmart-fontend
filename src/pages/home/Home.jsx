@@ -12,7 +12,7 @@ function Home() {
     queryKey: ["products", searchText],
     queryFn: async () => {
       const { data } = await axios.get(
-        `http://localhost:5000/products?productName=${searchText}`
+        `https://sadhin-mart-back-end.vercel.app/products?productName=${searchText}`
       );
       return data?.data; // Ensure you return the 'data' property of the response
     },

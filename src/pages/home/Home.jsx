@@ -7,7 +7,6 @@ import { useState } from "react";
 function Home() {
   const [searchText, setSearchText] = useState("");
   console.log(searchText);
-  
 
   const { data: products = [], isLoading } = useQuery({
     queryKey: ["products", searchText],
@@ -15,7 +14,7 @@ function Home() {
       const { data } = await axios.get(
         `http://localhost:5000/products?productName=${searchText}`
       );
-      return data?.data;
+      return data?.data; // Ensure you return the 'data' property of the response
     },
   });
 

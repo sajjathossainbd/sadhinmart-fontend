@@ -3,13 +3,12 @@ import Product from "./Product";
 import LoadingSpinner from "./shared/LoadingSpinner";
 
 function Products({ searchText, isLoading, products }) {
-
   return (
     <div className="py-10">
       {isLoading && searchText ? (
-        LoadingSpinner
+        <LoadingSpinner />
       ) : searchText && isLoading ? (
-        LoadingSpinner
+        <LoadingSpinner />
       ) : !products?.length ? (
         <p className="flex items-center justify-center text-3xl font-semibold text-red-800">
           Nothing Found!

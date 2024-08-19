@@ -1,0 +1,92 @@
+[
+  {
+    "productName": "Wireless Bluetooth Headphones",
+    "productImage": "https://m.media-amazon.com/images/I/61PcyNISj2L._AC_SL1500_.jpg",
+    "description": "High-quality wireless Bluetooth headphones with noise cancellation.",
+    "price": 79.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-19T10:00:00Z"
+  },
+  {
+    "productName": "Smart LED TV 55 inch",
+    "productImage": "https://m.media-amazon.com/images/I/71ozQicSSEL._SS1000_.jpg",
+    "description": "55-inch 4K Ultra HD Smart LED TV with HDR support.",
+    "price": 499.99,
+    "category": "Home Appliances",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-18T12:30:00Z"
+  },
+  {
+    "productName": "Gaming Laptop",
+    "productImage": "https://m.media-amazon.com/images/I/81UxlSUx31L._SS400_.jpg",
+    "description": "High-performance gaming laptop with NVIDIA RTX 3080.",
+    "price": 1499.99,
+    "category": "Computers",
+    "ratings": 4.8,
+    "productCreationDate": "2024-08-17T15:45:00Z"
+  },
+  {
+    "productName": "Smartwatch",
+    "productImage": "https://m.media-amazon.com/images/I/51f6-eQghWL._SS400_.jpg",
+    "description": "Water-resistant smartwatch with fitness tracking and GPS.",
+    "price": 199.99,
+    "category": "Wearables",
+    "ratings": 4.3,
+    "productCreationDate": "2024-08-19T09:15:00Z"
+  },
+  {
+    "productName": "Electric Scooter",
+    "productImage": "https://m.media-amazon.com/images/I/51nnvih3LNL._SS1000_.jpg",
+    "description": "Foldable electric scooter with a top speed of 25 km/h.",
+    "price": 299.99,
+    "category": "Transportation",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-16T08:00:00Z"
+  },
+  {
+    "productName": "Instant Pot Pressure Cooker",
+    "productImage": "https://m.media-amazon.com/images/I/71o6YeJs+wL._SS400_.jpg",
+    "description": "7-in-1 electric pressure cooker for quick and easy meals.",
+    "price": 89.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-18T11:20:00Z"
+  },
+  {
+    "productName": "Noise Cancelling Earbuds",
+    "productImage": "https://m.media-amazon.com/images/I/51k3DbZiBhL._SS1000_.jpg",
+    "description": "Compact noise-cancelling earbuds with long battery life.",
+    "price": 129.99,
+    "category": "Audio",
+    "ratings": 4.2,
+    "productCreationDate": "2024-08-17T14:50:00Z"
+  },
+  {
+    "productName": "Smart Refrigerator",
+    "productImage": "https://m.media-amazon.com/images/I/61+Z57deoBL._SS1000_.jpg",
+    "description": "Smart refrigerator with touchscreen display and Wi-Fi connectivity.",
+    "price": 1999.99,
+    "category": "Home Appliances",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-15T16:10:00Z"
+  },
+  {
+    "productName": "4K Action Camera",
+    "productImage": "https://m.media-amazon.com/images/I/51xTMAfLzZL._SS1000_.jpg",
+    "description": "Waterproof 4K action camera with image stabilization.",
+    "price": 249.99,
+    "category": "Cameras",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-19T07:30:00Z"
+  },
+  {
+    "productName": "Robot Vacuum Cleaner",
+    "productImage": "https://m.media-amazon.com/images/I/416PbUjbagS._SS1000_.jpg",
+    "description": "Smart robot vacuum cleaner with automatic charging and app control.",
+    "price": 349.99,
+    "category": "Home Appliances",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-18T13:40:00Z"
+  }
+]

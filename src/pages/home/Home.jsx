@@ -3,23 +3,22 @@ import Products from "../../components/Products";
 import Search from "../../components/Search";
 import axios from "axios";
 import { useState } from "react";
-import LoadingSpinner from "../../components/shared/LoadingSpinner";
 
 function Home() {
   const [searchText, setSearchText] = useState("");
+  console.log(searchText);
+  
 
   const { data: products = [], isLoading } = useQuery({
     queryKey: ["products", searchText],
     queryFn: async () => {
       const { data } = await axios.get(
-        `https://future-skills-help-center-api.vercel.app/cards?search=${searchText}`
+        `http://localhost:5000/products?productName=${searchText}`
       );
       return data?.data;
     },
   });
-  if (isLoading) {
-    return <LoadingSpinner />;
-  }
+
   return (
     <div>
       <Search
@@ -27,7 +26,11 @@ function Home() {
         setSearchText={setSearchText}
         products={products}
       />
-      <Products />
+      <Products
+        searchText={searchText}
+        isLoading={isLoading}
+        products={products}
+      />
     </div>
   );
 }

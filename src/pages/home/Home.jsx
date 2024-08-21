@@ -25,18 +25,27 @@ function Home() {
         setSearchText={setSearchText}
         products={products}
       />
-      <div className="flex justify-center items-center">
-        <div className="sort-options ">
-          <label htmlFor="sort">Sort by Price: </label>
-          <select
-            id="sort"
-            value={sortOrder}
-            onChange={(e) => setSortOrder(e.target.value)}
-          >
-            <option value="">Select</option>
-            <option value="low-to-high">Low to High</option>
-            <option value="high-to-low">High to Low</option>
-          </select>
+      <div className="flex items-center justify-center">
+        <div className="sort-options">
+          <div className="pb-2">
+            <label htmlFor="sort ">
+              <strong>Sort by Price:</strong>
+            </label>
+          </div>
+          <div className="">
+            <select
+              className="select select-ghost w-full max-w-xs"
+              id="sort"
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value)}
+            >
+              <option className=" disabled selected" value="">
+                Select
+              </option>
+              <option value="low-to-high">Low to High</option>
+              <option value="high-to-low">High to Low</option>
+            </select>
+          </div>
         </div>
       </div>
 

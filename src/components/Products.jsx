@@ -14,7 +14,7 @@ function Products({ searchText, isLoading, products }) {
           Nothing Found!
         </p>
       ) : (
-        <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 mt-10 max-sm:mx-4 px-10">
+        <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-10 mt-10 max-sm:mx-4 lg:px-10 md:px-6 px-4">
           {products.map((product) => (
             <Product key={product._id} product={product} />
           ))}{" "}

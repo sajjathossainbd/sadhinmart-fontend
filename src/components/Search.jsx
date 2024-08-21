@@ -36,7 +36,7 @@ const Search = ({ searchText, setSearchText, products }) => {
 	return (
 		<section
 			id="search-section"
-			className="px-4 sm:px-16 mx-auto w-full bg-nazmulBG min-h-[40dvh]"
+			className="mx-auto w-full]"
 		>
 			{/* Search Cards */}
 			<form

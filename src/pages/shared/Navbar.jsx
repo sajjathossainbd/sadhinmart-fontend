@@ -21,26 +21,8 @@ function Navbar() {
       >
         Home
       </NavLink>
-      <NavLink
-        to={"/products"}
-        className={({ isActive }) =>
-          isActive
-            ? "btn px-6 border-[0.6px] border-[#FF5364] hover:border-[#FF5364] text-[#FF5364] rounded-lg bg-white hover:bg-white"
-            : "btn px-6 bg-white hover:bg-white border-none shadow-none"
-        }
-      >
-        Products
-      </NavLink>
-      <NavLink
-        to={"/contact"}
-        className={({ isActive }) =>
-          isActive
-            ? "btn px-6 border-[0.6px] border-[#FF5364] hover:border-[#FF5364] text-[#FF5364] rounded-lg bg-white hover:bg-white"
-            : "btn px-6 bg-white hover:bg-white border-none shadow-none"
-        }
-      >
-        Contact
-      </NavLink>
+      <div className="text-md ml-2">Products</div>
+      <div className="text-md ml-2">Contact</div>
     </>
   );
   return (

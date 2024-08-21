@@ -12,7 +12,7 @@ function Home() {
     queryKey: ["products", searchText, sortOrder], // Include sortOrder here
     queryFn: async () => {
       const { data } = await axios.get(
-        `http://localhost:5000/products?productName=${searchText}&sort=${sortOrder}`
+        `https://sadhin-mart-back-end.vercel.app/products?productName=${searchText}&sort=${sortOrder}`
       );
       return data?.data;
     },

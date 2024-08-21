@@ -4,7 +4,7 @@ import LoadingSpinner from "./shared/LoadingSpinner";
 
 function Products({ searchText, isLoading, products }) {
   return (
-    <div className="py-2">
+    <div className="py-2 pb-10">
       {isLoading && searchText ? (
         <LoadingSpinner />
       ) : searchText && isLoading ? (

@@ -20,9 +20,9 @@ const Product = ({ product }) => {
   );
   return (
     <div className="">
-      <div className="card bg-base-100 w-96 shadow-xl">
+      <div className="card bg-base-100 h-[600px] shadow-xl">
         <figure>
-          <img src={productImage} alt="proudct" />
+          <img className="px-10" src={productImage} alt="proudct" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">

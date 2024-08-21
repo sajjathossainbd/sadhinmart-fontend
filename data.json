@@ -88,5 +88,284 @@
     "category": "Home Appliances",
     "ratings": 4.6,
     "productCreationDate": "2024-08-18T13:40:00Z"
+  },
+  {
+    "productName": "Fitness Tracker",
+    "productImage": "https://m.media-amazon.com/images/I/61j70aBzn7L._AC_SL1500_.jpg",
+    "description": "Stylish fitness tracker with heart rate monitoring and step tracking.",
+    "price": 49.99,
+    "category": "Wearables",
+    "ratings": 4.1,
+    "productCreationDate": "2024-08-17T10:00:00Z"
+  },
+  {
+    "productName": "Wireless Charger",
+    "productImage": "https://i.ebayimg.com/images/g/bacAAOSw1dFlip~H/s-l1600.webp",
+    "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+    "price": 29.99,
+    "category": "Accessories",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-19T11:00:00Z"
+  },
+  {
+    "productName": "Portable Bluetooth Speaker",
+    "productImage": "https://i.ebayimg.com/images/g/bacAAOSw1dFlip~H/s-l1600.webp",
+    "description": "Portable Bluetooth speaker with 12-hour battery life.",
+    "price": 59.99,
+    "category": "Audio",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-16T14:25:00Z"
+  },
+  {
+    "productName": "Smart Light Bulb",
+    "productImage": "https://m.media-amazon.com/images/I/61nWWeOFoTL._AC_SL1500_.jpg",
+    "description": "Smart light bulb with adjustable brightness and color control via app.",
+    "price": 19.99,
+    "category": "Home Automation",
+    "ratings": 4.3,
+    "productCreationDate": "2024-08-15T18:45:00Z"
+  },
+  {
+    "productName": "Digital Photo Frame",
+    "productImage": "https://m.media-amazon.com/images/I/51x1hTbDqVL._SS1000_.jpg",
+    "description": "Wi-Fi enabled digital photo frame with 16GB storage.",
+    "price": 99.99,
+    "category": "Gadgets",
+    "ratings": 4.2,
+    "productCreationDate": "2024-08-18T09:50:00Z"
+  },
+  {
+    "productName": "Electric Kettle",
+    "productImage": "https://m.media-amazon.com/images/I/51EcND+lspL._AC_SL1173_.jpg",
+    "description": "Stainless steel electric kettle with 1.7-liter capacity and auto shut-off.",
+    "price": 39.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-19T12:10:00Z"
+  },
+  {
+    "productName": "Smart Thermostat",
+    "productImage": "https://m.media-amazon.com/images/I/714aM23IzoL._AC_SL1500_.jpg",
+    "description": "Energy-saving smart thermostat with Wi-Fi control.",
+    "price": 149.99,
+    "category": "Home Automation",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-17T16:00:00Z"
+  },
+  {
+    "productName": "Cordless Drill",
+    "productImage": "https://i5.walmartimages.com/seo/BLACK-DECKER-BDCDD12C-12V-MAX-LITHIUM-CORDLESS-DRILL_58d5b72d-310d-421e-9abe-a30c3a26fa13_1.6863c0f0a60137473caeee2634572505.jpeg",
+    "description": "Powerful cordless drill with 20V battery and variable speed settings.",
+    "price": 89.99,
+    "category": "Tools",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-18T07:20:00Z"
+  },
+  {
+    "productName": "Tablet with Stylus",
+    "productImage": "https://m.media-amazon.com/images/I/71RJOPkRYtL._AC_SL1500_.jpg",
+    "description": "10.1-inch tablet with stylus support and 128GB storage.",
+    "price": 299.99,
+    "category": "Computers",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-16T13:10:00Z"
+  },
+  {
+    "productName": "Smart Security Camera",
+    "productImage": "https://m.media-amazon.com/images/I/41jZn6PVi3L._SL1000_.jpg",
+    "description": "1080p HD smart security camera with night vision and motion detection.",
+    "price": 79.99,
+    "category": "Home Security",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-15T17:35:00Z"
+  },
+  {
+    "productName": "Electric Toothbrush",
+    "productImage": "https://m.media-amazon.com/images/I/617SyZy6VCL._AC_SL1500_.jpg",
+    "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+    "price": 49.99,
+    "category": "Personal Care",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-19T08:40:00Z"
+  },
+  {
+    "productName": "Smart Doorbell",
+    "productImage": "https://m.media-amazon.com/images/I/413Sdg4SRhL._SS1000_.jpg",
+    "description": "Smart doorbell with 2-way audio, HD video, and motion alerts.",
+    "price": 129.99,
+    "category": "Home Security",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-17T11:55:00Z"
+  },
+  {
+    "productName": "Home Theater System",
+    "productImage": "https://m.media-amazon.com/images/I/51GB9gRmTeL._SS1000_.jpg",
+    "description": "5.1 channel home theater system with wireless subwoofer.",
+    "price": 399.99,
+    "category": "Audio",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-18T14:05:00Z"
+  },
+  {
+    "productName": "Air Purifier",
+    "productImage": "https://m.media-amazon.com/images/I/618awOMfz0L._SS1000_.jpg",
+    "description": "HEPA air purifier with real-time air quality monitoring.",
+    "price": 149.99,
+    "category": "Home Appliances",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-16T09:05:00Z"
+  },
+  {
+    "productName": "Smart Mirror",
+    "productImage": "https://m.media-amazon.com/images/I/41M1LCUfmiL._SS1000_.jpg",
+    "description": "Smart mirror with touchscreen interface and voice control.",
+    "price": 299.99,
+    "category": "Home Automation",
+    "ratings": 4.3,
+    "productCreationDate": "2024-08-15T11:45:00Z"
+  },
+  {
+    "productName": "Digital Alarm Clock",
+    "productImage": "https://m.media-amazon.com/images/I/410l3O2NxaL._SS1000_.jpg",
+    "description": "Digital alarm clock with FM radio and dual USB charging ports.",
+    "price": 29.99,
+    "category": "Gadgets",
+    "ratings": 4.2,
+    "productCreationDate": "2024-08-19T06:30:00Z"
+  },
+  {
+    "productName": "Electric Lawn Mower",
+    "productImage": "https://m.media-amazon.com/images/I/71H0Z5H9kbL._SS1000_.jpg",
+    "description": "Cordless electric lawn mower with 40V battery and 18-inch cutting deck.",
+    "price": 249.99,
+    "category": "Outdoor Tools",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-18T08:10:00Z"
+  },
+  {
+    "productName": "Smart Plug",
+    "productImage": "https://m.media-amazon.com/images/I/41zDpnAonzL._SS1000_.jpg",
+    "description": "Wi-Fi smart plug with energy monitoring and voice control.",
+    "price": 19.99,
+    "category": "Home Automation",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-17T13:50:00Z"
+  },
+  {
+    "productName": "Electric Stand Mixer",
+    "productImage": "https://m.media-amazon.com/images/I/71b1+QU7WSL._SS1000_.jpg",
+    "description": "10-speed electric stand mixer with 5-quart stainless steel bowl.",
+    "price": 229.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.8,
+    "productCreationDate": "2024-08-19T15:20:00Z"
+  },
+  {
+    "productName": "Portable Power Bank",
+    "productImage": "https://m.media-amazon.com/images/I/61ftnkSMcBL._SS1000_.jpg",
+    "description": "10,000mAh portable power bank with USB-C and Quick Charge support.",
+    "price": 39.99,
+    "category": "Accessories",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-18T11:30:00Z"
+  },
+  {
+    "productName": "Smart Water Bottle",
+    "productImage": "https://m.media-amazon.com/images/I/51t8OYLLXEL._SS1000_.jpg",
+    "description": "Smart water bottle with hydration tracking and LED reminders.",
+    "price": 59.99,
+    "category": "Health & Wellness",
+    "ratings": 4.3,
+    "productCreationDate": "2024-08-16T07:50:00Z"
+  },
+  {
+    "productName": "Portable Air Conditioner",
+    "productImage": "https://m.media-amazon.com/images/I/71+8xwcBNnL._SS1000_.jpg",
+    "description": "Portable air conditioner with 3-in-1 functionality: cooling, dehumidifying, and fan.",
+    "price": 299.99,
+    "category": "Home Appliances",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-20T10:00:00Z"
+  },
+  {
+    "productName": "Ergonomic Office Chair",
+    "productImage": "https://m.media-amazon.com/images/I/41WXAQEExpL._SS1000_.jpg",
+    "description": "Ergonomic office chair with adjustable armrests and lumbar support.",
+    "price": 199.99,
+    "category": "Furniture",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-19T14:45:00Z"
+  },
+  {
+    "productName": "Noise-Cancelling Sleeping Mask",
+    "productImage": "https://m.media-amazon.com/images/I/51ZwzcK4mDL._SS1000_.jpg",
+    "description": "Comfortable sleeping mask with built-in Bluetooth headphones and noise cancellation.",
+    "price": 49.99,
+    "category": "Health & Wellness",
+    "ratings": 4.2,
+    "productCreationDate": "2024-08-20T08:30:00Z"
+  },
+  {
+    "productName": "Cordless Hair Clippers",
+    "productImage": "https://m.media-amazon.com/images/I/816A7pT9B3L._SS1000_.jpg",
+    "description": "Rechargeable cordless hair clippers with precision cutting blades and adjustable lengths.",
+    "price": 69.99,
+    "category": "Personal Care",
+    "ratings": 4.4,
+    "productCreationDate": "2024-08-19T12:15:00Z"
+  },
+  {
+    "productName": "Ultrasonic Humidifier",
+    "productImage": "https://m.media-amazon.com/images/I/61NJKNOiAxL._SS1000_.jpg",
+    "description": "Ultrasonic cool mist humidifier with quiet operation and adjustable humidity levels.",
+    "price": 79.99,
+    "category": "Home Appliances",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-20T11:30:00Z"
+  },
+  {
+    "productName": "Smart Pet Feeder",
+    "productImage": "https://m.media-amazon.com/images/I/51oDVqtMiCL._SS1000_.jpg",
+    "description": "Wi-Fi enabled smart pet feeder with portion control and feeding schedule setup.",
+    "price": 129.99,
+    "category": "Pet Supplies",
+    "ratings": 4.7,
+    "productCreationDate": "2024-08-19T10:20:00Z"
+  },
+  {
+    "productName": "Electric Blanket",
+    "productImage": "https://m.media-amazon.com/images/I/51mhGMkHTYL._SS1000_.jpg",
+    "description": "Soft electric blanket with adjustable temperature settings and automatic shut-off.",
+    "price": 89.99,
+    "category": "Home Textiles",
+    "ratings": 4.3,
+    "productCreationDate": "2024-08-18T17:00:00Z"
+  },
+  {
+    "productName": "Wireless Video Doorbell",
+    "productImage": "https://m.media-amazon.com/images/I/41PltDwgVAL._SS1000_.jpg",
+    "description": "Wireless video doorbell with two-way audio, 1080p HD video, and motion alerts.",
+    "price": 149.99,
+    "category": "Home Security",
+    "ratings": 4.6,
+    "productCreationDate": "2024-08-20T09:15:00Z"
+  },
+  {
+    "productName": "Smart Coffee Maker",
+    "productImage": "https://m.media-amazon.com/images/I/51+Pm8CmyqL._SS1000_.jpg",
+    "description": "Wi-Fi enabled smart coffee maker with programmable brewing schedules and voice control.",
+    "price": 179.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "productCreationDate": "2024-08-19T11:00:00Z"
+  },
+  {
+    "productName": "Anti-Gravity Phone Case",
+    "productImage": "https://m.media-amazon.com/images/I/61OLyqtKQlL._SS1000_.jpg",
+    "description": "Innovative phone case with nano-suction technology that sticks to smooth surfaces.",
+    "price": 29.99,
+    "category": "Accessories",
+    "ratings": 4.2,
+    "productCreationDate": "2024-08-20T07:45:00Z"
   }
 ]

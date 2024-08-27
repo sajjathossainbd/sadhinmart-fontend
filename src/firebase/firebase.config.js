@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
-  projectId: import.meta.env.VITE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_APP_ID,
+  apiKey: "AIzaSyD-KIgUuh2VqcAn2CjuZvojZbGi5QC2_jY",
+  authDomain: "sadhin-mart.firebaseapp.com",
+  projectId: "sadhin-mart",
+  storageBucket: "sadhin-mart.appspot.com",
+  messagingSenderId: "863775334547",
+  appId: "1:863775334547:web:381d3d03dcfabcd0cf2d66",
 };
 
 const app = initializeApp(firebaseConfig);
